@@ -1,0 +1,9 @@
+{
+    "name": "Eaglercraft Beta 1.3",
+    "main": "index.html",
+    "window": {
+        "width": 930,
+        "height": 530,
+        "title": "Eaglercraft Beta 1.3"
+    }
+}

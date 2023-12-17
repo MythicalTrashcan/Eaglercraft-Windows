@@ -1,9 +1,0 @@
-{
-    "name": "Eaglercraft 1.5.2",
-    "main": "index.html",
-    "window": {
-        "width": 930,
-        "height": 530,
-        "title": "Eaglercraft 1.5.2"
-    }
-}
